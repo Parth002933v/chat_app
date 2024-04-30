@@ -6,7 +6,7 @@ I implement google authentication so user can login Using their gmail
 
 
 
-<img src="https://github.com/Parth002933v/chat_app/assets/140066704/58599523-423c-40f9-93a8-c2084e6a109a" alt="Image Alt Text" width="300" height="600"  >
+<img src="https://github.com/Parth002933v/chat_app/assets/140066704/5f972613-37f8-4269-948b-d888821b9d71" alt="Image Alt Text" width="300" height="600"  >
 
 <img src="https://github.com/Parth002933v/chat_app/assets/140066704/8b6968f3-5176-46e7-a8d1-92ee4efda250" alt="Image Alt Text" width="300" height="600">
 
